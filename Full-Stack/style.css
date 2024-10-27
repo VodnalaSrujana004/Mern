@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(200, 200, 235);
+}
+
+/*elementselector*/
+p {
+    color: red;
+    
+  }
+/*universalselector*/
+*{
+    background-color: rgb(172, 172, 214);
+}
+/*classelector*/
+.myclass{
+ background-color: brown;
+}
+.box{
+    border: 1px solid black;
+    width: 52px;
+    height: 32px;
+}
+.Universe{
+    display: flex;
+    justify-content:flex-end;
+}
